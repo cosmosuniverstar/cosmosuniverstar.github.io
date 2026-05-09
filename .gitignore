@@ -26,6 +26,10 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 
+# Local docs
+_HISTORIES.md
+CLAUDE.md
+
 # Hidden system files
 *~
 .DS_Store
